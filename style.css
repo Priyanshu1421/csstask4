@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+}
+.main-1{
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+img{
+    margin: 20px;
+    margin-left: 120px;
+    margin-bottom: 0;
+}
+button{
+    width: 545px;
+    padding: 10px;
+    margin-top: -5px;
+    margin-left: 120px;
+    background: linear-gradient(to right, yellow, rgb(95, 238, 13));
+    color: white;
+}
